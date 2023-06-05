@@ -1,7 +1,7 @@
-# dghsdgh
+# Professional README.md Generator
 
 ## Description
-fghsfgh
+This project intends to build an application that will generate a Professional README.md file that I can use as a template it in future projects.
 
 ## Table of Contents
 
@@ -13,19 +13,19 @@ fghsfgh
 
 ## Installation
 
-hsthsh
+npm install, ,npm install inquirer@8.2.4
 
 ## Usage
 
-hsfthsrt
+The app is useful for developers to dynamically generates a professional README.md file by using 'node index.js'
 
 ## Credits
 
-hth
+None. The application is a Demo
 
 ## License
 
-![Github license](https://img.shields.oo/badges/license-APACHE 2.0-orange.svg)
+![Github license](https://img.shields.oo/badges/license-MIT-orange.svg)
 
 ## Badges
  
@@ -41,6 +41,6 @@ undefined
 
 ## Questions
 
-For questions about this application you can send e-mail at  
-or visti the GitHub repository code at: https://github.com/fdyjdh
+For questions about this application you can send e-mail at goremic@yahoo.com 
+or visti the GitHub repository code at: https://github.com/alexeflorin
 
