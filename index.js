@@ -32,25 +32,25 @@ const questions = [
   },
   {
     type: "list",
-    name: "projectLicense",
+    name: "license",
     message: "What is your project license",
     choices: ["MIT", "APACHE 2.0", "BSD 3.0", "None"],
   },
   
   {
     type: "input",
-    name: "Testing",
+    name: "Tests",
     message: "What command should be use to run tests?",
 
   },
   {
     type: "input",
-    name: "GitHub username",
+    name: "GitHub",
     message: "Add your GitHub username",
   },
   {
     type: "input",
-    name: "e-mail address",
+    name: "email",
     message: "Add your e-mail address",
   },
   
