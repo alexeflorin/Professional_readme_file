@@ -11,22 +11,6 @@ const questions = [
     message: "What is project title?",
   },
   {
-    type: "list",
-    name: "projectLicense",
-    message: "What is your project license",
-    choices: ["MIT", "APACHE 2.0", "BSD 3.0", "None"],
-  },
-  {
-    type: "input",
-    name: "GitHub username",
-    message: "Add your GitHub username",
-  },
-  {
-    type: "input",
-    name: "e-mail address",
-    message: "Add your e-mail address",
-  },
-  {
     type: "input",
     name: "Description",
     message: "Please enter a description about the project",
@@ -47,11 +31,29 @@ const questions = [
     message: "Does application accepts contribution?",
   },
   {
+    type: "list",
+    name: "projectLicense",
+    message: "What is your project license",
+    choices: ["MIT", "APACHE 2.0", "BSD 3.0", "None"],
+  },
+  
+  {
     type: "input",
     name: "Testing",
     message: "What command should be use to run tests?",
 
   },
+  {
+    type: "input",
+    name: "GitHub username",
+    message: "Add your GitHub username",
+  },
+  {
+    type: "input",
+    name: "e-mail address",
+    message: "Add your e-mail address",
+  },
+  
 ];
 
 // TODO: Create a function to write README file
