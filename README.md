@@ -25,7 +25,7 @@ None. The application is a Demo
 
 ## License
 
-![Github license](https://img.shields.oo/badges/license-MIT-orange.svg)
+![Github license](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ## Badges
  

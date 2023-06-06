@@ -6,7 +6,7 @@ function renderLicenseBadge(license) {
     // return nothing if ther is no license
   } else {
     // license and license image
-    return `![Github license](https://img.shields.oo/badges/license-${license}-orange.svg)`;
+    return `![Github license](https://img.shields.io/badge/license-${license}-orange.svg)`;
   }
 }
 
